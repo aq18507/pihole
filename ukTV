@@ -1,0 +1,10 @@
+# Channel 4 and ITV Blocklist
+# Date: 30/10/2022
+# ----------------------------------
+0.0.0.0 woody.itv.com
+0.0.0.0 akamaiedge.net
+0.0.0.0 toots-a.akamaihd.net
+0.0.0.0 akamai.net
+0.0.0.0 cdn.http.anno.channel4.com
+0.0.0.0 cdn.ss.anno.channel4.com
+0.0.0.0 c5adds.ott.skymedia.co.uk
